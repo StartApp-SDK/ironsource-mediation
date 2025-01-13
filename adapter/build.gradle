@@ -22,7 +22,7 @@ android {
 }
 
 dependencies {
-    api 'com.ironsource.sdk:mediationsdk:[8,9)'
+    api 'com.unity3d.ads-mediation:mediation-sdk:[8,9)'
     api 'com.startapp:inapp-sdk:[5.0.1,6)'
 }
 
